@@ -1,6 +1,6 @@
 {
-  status: 200,
-  data: [
-    { message: 'first line not correct...' }
+  "status": 200,
+  "data": [
+    { "message": "first line not correct..." }
   ]
 }
