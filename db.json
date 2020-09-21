@@ -11,5 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "status": "200"
+  "status":{
+    "code": "200"
+  }
 }
